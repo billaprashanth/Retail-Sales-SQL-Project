@@ -1,6 +1,6 @@
 CREATE DATABASE sql_project_p1;
 
-DROP TABLE IF EXISTS retial_sales;
+DROP TABLE IF EXISTS retail_sales;
 CREATE TABLE retail_sales
 (
     transactions_id INT PRIMARY KEY,
